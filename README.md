@@ -7,5 +7,6 @@ __[DALL.E 2](https://openai.com/dall-e-2/)__
 __[Midjourney](https://midjourney.com/)__   
 __[Nightcafe](https://creator.nightcafe.studio/)__
 # AI Art Blogs
-__[AI ARTISTS](https://aiartists.org/)__  
 __[AI ART DIGEST](https://www.aiartdigest.com)__    
+__[AI ARTISTS](https://aiartists.org/)__  
+
